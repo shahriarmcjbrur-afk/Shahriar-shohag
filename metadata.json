@@ -1,0 +1,6 @@
+{
+  "name": "BRUR Nest - Student Housing Platform",
+  "description": "Verified student housing, live seat availability, and safety analytics platform for Begum Rokeya University, Rangpur (BRUR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
